@@ -1,0 +1,10 @@
+*.class
+.classpath
+.settings/
+.project
+# Package Files #
+*.war
+*.jar
+
+Servers/
+target/
